@@ -1,0 +1,9 @@
+{
+"java.configuration.runtimes": [
+  {
+    "name": "JavaSE-15",
+    "path": "/opt/java/openjdk",
+    "default": true
+  },
+] 
+}
